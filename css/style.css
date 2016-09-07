@@ -2,16 +2,16 @@ style.css
 *{
 	font-family: Helvetica, Arial
 }
-body{
-	background-color: rgb(117,117,163);
+#header1{
+	width: 250;
+	border: 2px black solid;
+	margin: 1px auto;
 }
-#tesla{
-	background-color: blue
-}
+
 img{
 	background-color: black;
 	display: block;
-	width: 500px; 
+	width: 250px; 
 	padding: 5px 5px;
 	border:2px white solid;
 	margin: 10px auto;
